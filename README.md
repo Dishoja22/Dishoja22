@@ -1,6 +1,10 @@
-## 👋 Hi, I’m Kilari Dishoja
+![gif animation text](https://github.com/user-attachments/assets/bb37157a-8c45-4c6f-afdd-28b39603bc0f)## 👋 Hi, I’m Kilari Dishoja
 
 🚀 A passionate and curious tech enthusiast with a growing skill set in **Cybersecurity, Ethical Hacking, and Web Development**. I enjoy exploring how technology can be used to solve real-world problems while building secure and efficient systems.
+![gif animation text](https://github.com/user-attachments/assets/1ad0f8c2-36d2-467d-9b52-e3e8106cb421)
+
+
+<img width="1584" height="396" alt="linkedin banner" src="https://github.com/user-attachments/assets/7903a513-b0f8-4795-b54f-7d2cba522892" />
 
 ---
 
@@ -13,7 +17,7 @@
 - 🧠 Believe in **continuous learning** and staying updated with the latest security trends
 - 🛠️ Hands-on experience with **real-time projects**
 
-<img width="1584" height="396" alt="linkedin banner" src="https://github.com/user-attachments/assets/7903a513-b0f8-4795-b54f-7d2cba522892" />
+
 
 ---
 
