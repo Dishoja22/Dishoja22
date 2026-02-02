@@ -11,6 +11,7 @@
 - 🔥 Exploring backend tools like **Firebase**
 - 🧠 Believe in **continuous learning** and staying updated with the latest security trends
 - 🛠️ Hands-on experience with **real-time projects**
+
 ![gif animation](https://github.com/user-attachments/assets/e8f88cd6-ea04-4578-b121-383c45feafbd)
 
 ## 💡 Interests
