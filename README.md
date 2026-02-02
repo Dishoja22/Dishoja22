@@ -3,7 +3,9 @@
 🚀 A passionate and curious tech enthusiast with a growing skill set in **Cybersecurity, Ethical Hacking, and Web Development**. I enjoy exploring how technology can be used to solve real-world problems while building secure and efficient systems.
 
 <img width="1584" height="396" alt="linkedin banner" src="https://github.com/user-attachments/assets/7903a513-b0f8-4795-b54f-7d2cba522892" />
+
 ---
+
 ## 🔐 About Me
 - 🎓 Strong foundation in **Computer Science**
 - 🛡️ Actively learning **Cybersecurity & Ethical Hacking**
